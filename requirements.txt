@@ -1,0 +1,7 @@
+mcp==1.30.0
+python-dotenv==1.2.4
+# Uniquement pour maps_agent.py (agent LLM)
+langchain-mcp-adapters==0.3.2
+langgraph==1.2.14
+langchain-google-genai==4.4.0
+langchain-openai==1.6.7
